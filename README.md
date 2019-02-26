@@ -1,17 +1,8 @@
-yarn version 1.12.3
+## 🎨 This branch contains design sources for all cyberprojects.
 
-yarn install
-yarn start
+1. [cyb](/cyb.sketch)
+2. [cyberd](/cyber.sketch)
+3. [chaingear](/chaingear.sketch)
+4. [congress](/congress.sketch)
+5. [cybersearch](/cybersearch.sketch)
 
-
-for link in project:
-yarn link 
-
-in your project 
-yarn link '@cybercongress/ui'
-
-
-for publish:
-change version in package.json
-npm login
-npm publish
