@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5E18C0C-AC20-4B6C-8A67-5D6A6A7CAD3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DEB65880-C51D-44FC-9943-E6060640ECF5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "494CD057-73E2-4E1F-A12C-DF173E6E3944",
+    "height": 17,
+    "width": 13,
+    "x": 36.5,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0969C803-1F55-45AB-AD0E-8222AD392C18"
+    }
+  ],
+  "name": "Bitcoin",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DD09BE73-3A6A-4401-AC30-B110FD5E75EC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.3240000000000001,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D0E50B1E-0A1D-45DE-8B12-5BE42FF38BE9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

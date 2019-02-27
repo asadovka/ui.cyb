@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2346EDE-204A-4C88-B7F3-AE9659CA881E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BA4AFDB-6D06-4F68-BB6C-A52854988903",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DCC185E0-1A36-41A7-A985-F38707088511",
+    "height": 42,
+    "width": 210,
+    "x": 889,
+    "y": 718
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button 32 / Primary / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F480128-EDEE-4CE4-B5AC-A42E5A893A6F",
+      "overrideName": "CB14FEA3-23A2-4ECA-8CB9-F0CE8C31303C_stringValue",
+      "value": "Get off the matrix"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E0FA0CB-133C-4700-A538-EF13B7762821",
+      "overrideName": "D65B4476-58EC-432F-AE6F-77CC8FC956CA_layerStyle",
+      "value": "4529D298-9013-4287-85AC-682FED6D1CDA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A042913E-2D1E-4603-9D28-ED43DF6D8504",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0CBB243E-F246-4201-B335-E361ECB97347",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_df9000bf-f2e3-46ad-978c-44922abdcc51",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_ef44042e-1130-45e6-9bb1-1f79ade59d2d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_df9000bf-f2e3-46ad-978c-44922abdcc51",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_ef44042e-1130-45e6-9bb1-1f79ade59d2d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

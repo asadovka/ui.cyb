@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43DA05FE-AD11-43C3-9D23-6B7245440ABE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "226E73DD-E4B9-443F-B75F-82970BCEB9DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F62E64F-F8FC-4B4A-A93A-119F0F11D0EF",
+    "height": 528,
+    "width": 411,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D20B25D8-E98F-4424-AE5A-454BB4532A99"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F776081B-3EF1-4A7E-AABA-8F260B878F04"
+    },
+    {
+      "class": "rectangle",
+      "id": "9042BC8E-B79A-4AAA-9EE7-8E2FD959C8FA"
+    }
+  ],
+  "name": "Card / Elevation 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0750D3B7-C874-4226-A2BE-1144D8AB70C0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "AD6B1264-B8EA-446D-874A-905B399BFF9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 96,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5279447115384616,
+          "blue": 0.6382757867132867,
+          "green": 1,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

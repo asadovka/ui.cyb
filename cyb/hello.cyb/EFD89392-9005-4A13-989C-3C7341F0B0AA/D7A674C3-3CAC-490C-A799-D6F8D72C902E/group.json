@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7A674C3-3CAC-490C-A799-D6F8D72C902E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92F4F6F0-9AE0-4D36-AA9A-2E5C5EBDED89",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD69CF72-4E9B-4B5A-8F8E-6E204CC0BD3C",
+    "height": 570,
+    "width": 530,
+    "x": 729,
+    "y": 100
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1F3BC0FB-E1C3-4228-BDFC-606C5761C0D9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ACC93DFB-D200-49FC-AE42-2DC939EAC768"
+    },
+    {
+      "class": "group",
+      "id": "ECEF21AD-A28A-4714-8CAB-89FC75055B49"
+    },
+    {
+      "class": "group",
+      "id": "242DA039-6567-4A0E-82E8-F23294AFE642"
+    }
+  ],
+  "name": "Terminal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36004A5D-8721-402D-B43B-AC670676E576",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 32,
+        "color": {
+          "_class": "color",
+          "alpha": 0.4,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 16,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

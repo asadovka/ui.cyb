@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D52FDA62-B636-407A-8A60-15F6848F918F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE7496AF-C2FC-4BA1-A1F8-E6D4DEAA0394",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE49B3A3-39B1-4247-B63E-C908223CD3AD",
+    "height": 42,
+    "width": 106,
+    "x": 217,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button 32 / Regular / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E20EDEB9-5D29-4ED1-B0C8-028ACDF2EB1D",
+      "overrideName": "158815F7-964A-43FE-A2A2-06A59E9571D3_stringValue",
+      "value": "Returning"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12BA3B6A-C98F-42B5-8C75-538883C4DDD5",
+      "overrideName": "CC52D77E-8CED-445C-B7CE-965A2D075871_stringValue",
+      "value": "Return"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECAFC436-3B36-4DEB-A275-120005BACF1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8567333D-A6E5-4C37-BC0A-37AF9F5DE894",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_fd15ee1a-578f-4d54-bbca-cefa062f4077",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_bbdf32a7-12d0-4035-a65d-c176e2a3f7bb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

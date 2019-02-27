@@ -1,0 +1,64 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "D6F56B8D-68A5-4C57-AF4F-BC4FA2AB6CB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86DD2396-F8B4-4683-8FC2-60BBBD0AAE96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "642139E1-849D-4D6A-861F-B0453616E798",
+    "height": 132.1509433962264,
+    "width": 103,
+    "x": 25,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/495cce2cb58a3152f8153331a8066026d7659800.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cyb_5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -9,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FDB37A39-C125-4C0F-B06B-DA7D73E04437",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.24,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "97B54275-BAC0-4300-8A33-F1604508B506",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

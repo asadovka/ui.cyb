@@ -1,0 +1,61 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "BBF86A71-92CC-41EF-9C7D-E05731429B90",
+  "name": "Gradient/Miami Vice",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.3738972392059181,
+          "red": 0.1943852588383839
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{1, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8039215686274511,
+                "green": 0.3529411764705882,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3803921568627451,
+                "green": 0.8549019607843138,
+                "red": 0.984313725490196
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6C9F765-A6CD-4C0D-B3DE-95B542F6BF33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB8991B8-394F-4C23-99BD-3D4AD8DA8397",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "31C622A1-857B-4F23-85E4-DD320EDFC631",
+    "height": 25,
+    "width": 32,
+    "x": 3,
+    "y": 405
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8F8839F0-8FB2-4945-B950-AAC426CF5955"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F51EBADD-D408-49C5-A1C5-B4FFAD31D9A3"
+    }
+  ],
+  "name": "brain (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2745D573-EDEF-4B7B-BE93-78FF6E565647",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.7290000000000001,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8505BCA8-6A4D-4BA9-A7BB-9D45AAF2BB02",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

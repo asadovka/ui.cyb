@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D26AB6E6-EEDC-4F5B-A2DD-A52809625737",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AFAFFD2-3293-41B7-B71C-918733CF86E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E2A3A428-D7EB-46BA-90EC-D5AFA7C1B7F0",
+    "height": 25,
+    "width": 25,
+    "x": 274,
+    "y": 276
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AABC13C5-17D0-4979-ACF5-97C633A5C84A"
+    }
+  ],
+  "name": "github-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CC48051B-2FAF-412A-BFEC-FEBAD2D8BDC2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "87F8E6F3-FC6D-43E2-B3E8-9636A380657E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

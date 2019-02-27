@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2ADB23D-5F27-4300-9A66-7A6E8D258B0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D522D03F-F0FF-4532-B257-EF207A22D993",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E52ED15E-B91D-435A-9D0B-F7F3E568A703",
+    "height": 429,
+    "width": 30,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CA63C084-6A3D-4687-9599-E2DE8C59CBBF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "triangle",
+      "id": "DDE2C12C-5DEE-4DEE-A19D-E6200E7AC604"
+    },
+    {
+      "class": "triangle",
+      "id": "D822216A-30E0-49C5-B0B1-A75F2F6972A1"
+    },
+    {
+      "class": "triangle",
+      "id": "BBE6C5DD-8BA8-4847-AE96-EC5C3DC57ABC"
+    },
+    {
+      "class": "group",
+      "id": "BDA5A973-841F-410B-9809-E4960E3BFE6F"
+    },
+    {
+      "class": "group",
+      "id": "B9ED71DB-029D-49BF-81EC-4759A4296073"
+    },
+    {
+      "class": "rectangle",
+      "id": "4825F9EA-9977-4F36-A481-DBFDEE496729"
+    },
+    {
+      "class": "rectangle",
+      "id": "0DF617B1-2E7A-427B-8BC2-E7ED8511E085"
+    },
+    {
+      "class": "oval",
+      "id": "08A4BD94-5195-481A-8A43-42AC2741D40C"
+    },
+    {
+      "class": "oval",
+      "id": "D3E8346D-76AA-432D-B1D6-8A471EC35181"
+    }
+  ],
+  "name": "progress bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AC162004-1E16-4DA6-A315-387501F9645D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E1F12BBF-ADE3-4154-9BB6-3FF6D0558E2B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
